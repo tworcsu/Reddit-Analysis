@@ -1,0 +1,13 @@
+There's nothing wrong with falling in love with a programming language for her looks. I mean, let's face it - Python does have a rockin' body of modules, and a damn good set of utilities and interpreters on various platforms. Her whitespace-sensitive syntax is easy on the eyes, and it's a beautiful sight to wake up to in the morning after a long night of debugging. The way she sways those releases on a consistent cycle - she knows how to treat you right, you know?
+
+But let's face it - a lot of other languages see the attention she's getting, and they get jealous. Really jealous. They try and make her feel bad by pointing out the GIL, and they try and convince her that she's not "good enough" for parallel programming or enterprise-level applications. They say that her lack of static typing gives her programmers headaches, and that as an interpreted language, she's not fast enough for performance-critical applications.
+
+She hears what those other, older languages like Java and C++ say, and she thinks she's not stable or mature enough. She hears what those shallow, beauty-obsessed languages like Ruby say, and she thinks she's not pretty enough. But she's trying really hard, you know? She hits the gym every day, trying to come up with new and better ways of JIT'ing and optimizing. She's experimenting with new platforms and compilation techniques all the time. She wants you to love her more, because she cares.
+
+But then you hear about how bad she feels, and how hard she's trying, and you just look into her eyes, sighing. You take Python out for a walk - holding her hand - and tell her that she's the most beautiful language in the world, but that's not the only reason you love her.
+
+You tell her she was raised right - Guido gave her core functionality and a deep philosophy she's never forgotten. You tell her you appreciate her consistent releases and her detailed and descriptive documentation. You tell her that she has a great set of friends who are supportive and understanding - friends like Google, Quora, and Facebook. And finally, with tears in your eyes, you tell her that with her broad community support, ease of development, and well-supported frameworks, you know she's a language you want to be with for a long, long time.
+
+After saying all this, you look around and notice that the two of you are alone. Letting go of Python's hand, you start to get down on one knee. Her eyes get wide as you try and say the words - but she just puts her finger on your lips and whispers, "Yes".
+
+The moon is bright. You know things are going to be okay now.

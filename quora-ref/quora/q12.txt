@@ -1,0 +1,23 @@
+Well, let's take a step back and think about the sync problem and what the ideal solution for it would do:
+
+There would be a folder.
+You'd put your stuff in it.
+It would sync.
+
+They built that.
+
+Why didn't anyone else build that? I have no idea.
+
+"But," you may ask, "so much more you could do! What about task management, calendaring, customized dashboards, virtual white boarding. More than just folders and files!"
+
+No, shut up. People don't use that crap. They just want a folder. A folder that syncs.
+
+"But," you may say, "this is valuable data... certainly users will feel more comfortable tying their data to Windows Live, Apple's MobileMe, or a name they already know."
+
+No, shut up. Not a single person on Earth wakes up in the morning worried about deriving more value from their Windows Live login. People already trust folders. And Dropbox looks just like a folder. One that syncs.
+
+"But," you may say, "folders are so 1995. Why not leverage the full power of the web? With HTML5 you can drag and drop files, you can build intergalactic dashboards of statistics showing how much storage you are using, you can publish your files as RSS feeds and tweets, and you can add your company logo!"
+
+No, shut up. Most of the world doesn't sit in front of their browser all day. If they do, it is Internet Explorer 6 at work that they are not allowed to upgrade.  Browsers suck for these kinds of things. Their stuff is already in folders. They just want a folder. That syncs.
+
+That is what it does.

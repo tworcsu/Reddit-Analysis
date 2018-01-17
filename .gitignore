@@ -1,0 +1,7 @@
+lib/spark-assembly-1.6.1-hadoop2.6.0.jar
+dist/
+build/
+.idea/
+lib/
+target/
+cs455-project.iml
